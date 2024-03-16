@@ -21,6 +21,7 @@ pip install -r requirments.txt
 ```
 
 clone the reposetory yolov5
+
 ```bash
 git clone https://github.com/ultralytics/yolov5.git
 ```
@@ -35,3 +36,4 @@ git clone https://github.com/ultralytics/yolov5.git
 4.pipeline
 
 5.app.py
+
