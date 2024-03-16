@@ -37,3 +37,5 @@ git clone https://github.com/ultralytics/yolov5.git
 
 5.app.py
 
+# website page
+![Screenshot (84)](https://github.com/raghavpatel2507/Sign-Language-Detection-using-Yolo-V5/assets/127617393/a010ad4c-c7b5-411b-9aaa-c7264790709a)
