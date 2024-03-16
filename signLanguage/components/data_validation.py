@@ -10,7 +10,6 @@ from signLanguage.entity.artifacts_entity import (DataIngestionArtifact,
 
 
 
-
 class DataValidation:
     def __init__(
         self,
